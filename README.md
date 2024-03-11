@@ -1,1 +1,1 @@
-# GK-Quizz
+# GK Quizz
