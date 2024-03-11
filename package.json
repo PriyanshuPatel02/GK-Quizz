@@ -1,5 +1,5 @@
 {
-  "name": "quiz",
+  "name": "gk quiz",
   "version": "1.0.0",
   "description": "Quiz assignment, to be submitted in 'ACM- League of Code'",
   "main": "index.html",
@@ -12,7 +12,7 @@
     "usemin": "usemin index.html -d dist --htmlmin -o dist/index.html",
     "build": "npm run clean && npm run imagemin && npm run usemin"
   },
-  "author": "Chirag Jain",
+  "author": "Priyanshu Patel",
   "license": "ISC",
   "devDependencies": {
     "cssmin": "^0.4.3",
